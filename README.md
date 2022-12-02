@@ -33,7 +33,7 @@
 ## Days
 
 - [x] :star: :star: [Day 1: Calorie Counting](https://adventofcode.com/2022/day/1) - [source](day-1/)
-- [ ] [Day 2: ???](https://adventofcode.com/2022/day/2) - [source](day-2/)
+- [ ] [Day 2: Rock Paper Scissors](https://adventofcode.com/2022/day/2) - [source](day-2/)
 - [ ] [Day 3: ???](https://adventofcode.com/2022/day/3) - [source](day-3/)
 - [ ] [Day 4: ???](https://adventofcode.com/2022/day/4) - [source](day-4/)
 - [ ] [Day 5: ???](https://adventofcode.com/2022/day/5) - [source](day-5/)
